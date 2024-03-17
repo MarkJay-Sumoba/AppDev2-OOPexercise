@@ -1,0 +1,36 @@
+2024-03-17 17:50:53,155 [1] INFO AppDev_II.Program - Starting OOP exercise 
+
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Starting PaymentCard Class
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Creating PaymentCard object (card)
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - PaymentCard object created: The card has a balance of 50 euros
+
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Creating PaymentCard object (card2)
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - PaymentCard object (card2) created: The card has a balance of 50 euros
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Card2 balance after eating lunch: The card has a balance of 39.4 euros
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Card2 balance after drinking coffee: The card has a balance of 37.4 euros
+
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Creating PaymentCard object (card3)
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - PaymentCard object (card3) created: The card has a balance of 10 euros
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Card3 balance after eating lunch: The card has a balance of 37.4 euros
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Card2 balance after drinking coffee: The card has a balance of 37.4 euros
+
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Creating PaymentCard object (card4)
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - PaymentCard object (card4) created: The card has a balance of 100 euros
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Balance after adding 49.99: The card has a balance of 149.99 euros
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Balance after adding 10000.0: The card has a balance of 149.99 euros
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Balance after adding -10.0: The card has a balance of 150 euros
+
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Starting Book Class
+2024-03-17 17:50:53,187 [1] INFO AppDev_II.Program - Books loaded from file: ..\..books.csv
+2024-03-17 17:51:02,746 [1] INFO AppDev_II.Program - Book added: LogTesting, Pages: 1, Publication Year: 2024
+2024-03-17 17:51:10,109 [1] INFO AppDev_II.Program - Saving books to file: ..\..books.csv
+2024-03-17 17:51:10,109 [1] INFO AppDev_II.Program - Books saved to file: ..\..books.csv
+
+2024-03-17 17:51:11,910 [1] INFO AppDev_II.Program - A Brief History of Time, 256 pages, 1988
+2024-03-17 17:51:11,910 [1] INFO AppDev_II.Program - Beautiful Code, 593 pages, 2007
+2024-03-17 17:51:11,910 [1] INFO AppDev_II.Program - The Name of the Wind, 662 pages, 2007
+2024-03-17 17:51:11,910 [1] INFO AppDev_II.Program - To Kill a Mockingbird, 281 pages, 1960
+2024-03-17 17:51:11,910 [1] INFO AppDev_II.Program - A Brief History of Time, 256 pages, 198
+2024-03-17 17:51:11,910 [1] INFO AppDev_II.Program - Mark, 6 pages, 1986
+2024-03-17 17:51:11,910 [1] INFO AppDev_II.Program - Hello, 256 pages, 2024
+2024-03-17 17:51:11,910 [1] INFO AppDev_II.Program - LogTesting, 1 pages, 2024
